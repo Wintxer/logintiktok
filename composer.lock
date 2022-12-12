@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "1390016d364c114d0fe55660c9f5d943",
+    "packages": [
+        {
+            "name": "gimucco/tiktok-loginkit",
+            "version": "v0.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andreaolivato/TikTok-LoginKit-PHP.git",
+                "reference": "11c866a547b77c0a779efb6093084f10c5aa2307"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andreaolivato/TikTok-LoginKit-PHP/zipball/11c866a547b77c0a779efb6093084f10c5aa2307",
+                "reference": "11c866a547b77c0a779efb6093084f10c5aa2307",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "gimucco\\TikTokLoginKit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Andrea Olivato",
+                    "email": "andrea@olivato.me"
+                }
+            ],
+            "description": "TikTok Login Kit for Web in PHP",
+            "support": {
+                "issues": "https://github.com/andreaolivato/TikTok-LoginKit-PHP/issues",
+                "source": "https://github.com/andreaolivato/TikTok-LoginKit-PHP/tree/v0.4.1"
+            },
+            "time": "2022-11-24T04:07:11+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
